@@ -40,3 +40,11 @@ type = custom/script
 exec = ~/.config/polybar/mobile-data.sh
 tail = true
 ```
+
+## Options in mobile-data.sh
+
+Set your Symbol for infront of the Text in Polybar, set "" for no Symbol. (Standard uses a Mobile Data Symbol from Googles Material Icons)
+
+```ini
+SYMBOL=""
+```
