@@ -11,12 +11,6 @@ a Module that shows your [ModemManager](https://github.com/freedesktop/ModemMana
 
 * You need ModemManager running.
 
-* You also need Googles Material Design Icons for the Train Symbol
-
-[AUR](https://aur.archlinux.org/packages/ttf-material-design-icons-git)
-```ini
-https://aur.archlinux.org/packages/ttf-material-design-icons-git
-```
 
 ## Module
 
