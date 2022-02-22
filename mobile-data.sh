@@ -2,7 +2,7 @@
 set -euo pipefail
 
 INTERVAL=1
-SYMBOL=""
+SYMBOL="#1"
 
 while true; do
 	RAW_DATA=$(     mmcli -m ANY -J)
