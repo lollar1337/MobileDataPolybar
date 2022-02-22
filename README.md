@@ -29,7 +29,7 @@ tail = true
 
 ## Configuration
 
-Set your Symbol for infront of the Text in Polybar, set "" for no Symbol. (Standard uses a Mobile Data Symbol from Googles Material Icons)
+Set your Symbol for infront of the Text in Polybar, set "" for no Symbol.
 
 ```ini
 SYMBOL=""
