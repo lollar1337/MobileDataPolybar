@@ -5,7 +5,7 @@ INTERVAL=1
 SYMBOL="#1"
 
 while true; do
-	RAW_DATA=$(     mmcli -m ANY -J || echo "mmbad" )
+	RAW_DATA=$( mmcli -m ANY -J || echo "mmbad" )
 	
 	if [[ $RAW_DATA == "mmbad" ]]; then
 		echo ""
